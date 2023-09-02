@@ -1,6 +1,3 @@
-# Introduction 
-here is a small python project that I created for the purpose of learning. 
-
 # BMI Calculator
 This program calculates the Body Mass Index (BMI), BMI is a measure of body fat based on height and weight.
 
