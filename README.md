@@ -14,12 +14,12 @@ This program calculates the area of two shapes and compares them.
 
 ### Example
 The following is an example of the program: 
-> Enter the length of area 1 : 50
-> Enter the width of area 1 : 50
-> Enter the length of area 2 : 20
-> Enter the width of area 2 : 20
-> area 1 is greater than area 2
-> area 1 2500.0 and area 400.0
+<br>Enter the length of area 1 : 50
+Enter the width of area 1 : 50<br>
+Enter the length of area 2 : 20<br>
+Enter the width of area 2 : 20<br>
+area 1 is greater than area 2<br>
+area 1 2500.0 and area 400.0<br>
 
 Link to the project: 
 ## Countdown Timer
@@ -31,7 +31,7 @@ This program prints "Head" or "Tail" randomly.
 
 ### Example 
 The following is an example of the program: 
-> Head
+<br>Head
 
 Link to the project: 
 ## Leap
@@ -39,9 +39,9 @@ This program checks if a year is a leap year. A leap year is a year that has 366
 
 ### Example 
 The following is an example of the program: 
-> Which year do you want to check?
-> 2020
-> Leap year.
+<br>Which year do you want to check?
+2020<br>
+Leap year.<br>
 
 Link to the project: 
 ## Logical Operators
