@@ -2,49 +2,52 @@
 This program calculates the Body Mass Index (BMI), BMI is a measure of body fat based on height and weight.
 
 ### Example
-The following is an example of the program:
+The following is an example of the program:<br>
 <br>
 Enter your height in m: 1.77<br>
 Enter your weight in kg: 80<br>
 slightly overweight<br>
 Your BMI is 25<br>
 
-Link to the project: 
+Link to the project: https://github.com/nawafalhu/Python-Project/blob/main/BMI-Calculator.py
 ## Calculating Area
 This program calculates the area of two shapes and compares them.
 
 ### Example
-The following is an example of the program: 
-<br>Enter the length of area 1 : 50
+The following is an example of the program: <br>
+<br>
+Enter the length of area 1 : 50
 Enter the width of area 1 : 50<br>
 Enter the length of area 2 : 20<br>
 Enter the width of area 2 : 20<br>
 area 1 is greater than area 2<br>
 area 1 2500.0 and area 400.0<br>
 
-Link to the project: 
+Link to the project: https://github.com/nawafalhu/Python-Project/blob/main/Calculating-Area.py
 ## Countdown Timer
 This program is a countdown timer. It can be used to count down a time.
 
-Link to the project: 
+Link to the project: https://github.com/nawafalhu/Python-Project/blob/main/Countdown-Timer.py
 ## Heads Or Tails
 This program prints "Head" or "Tail" randomly.
 
 ### Example 
-The following is an example of the program: 
-<br>Head
+The following is an example of the program: <br>
+<br>
+Head
 
-Link to the project: 
+Link to the project: https://github.com/nawafalhu/Python-Project/blob/main/Heads-Or-Tails.py
 ## Leap
 This program checks if a year is a leap year. A leap year is a year that has 366 days, instead of the usual 365 days. Leap years occur every four years, except for years that are divisible by 100 but not by 400.
 
 ### Example 
-The following is an example of the program: 
-<br>Which year do you want to check?
+The following is an example of the program: <br>
+<br>
+Which year do you want to check?<br>
 2020<br>
 Leap year.<br>
 
-Link to the project: 
+Link to the project: https://github.com/nawafalhu/Python-Project/blob/main/Leap.py
 ## Logical Operators
 This program uses logical operators to check the age of a person.
 
