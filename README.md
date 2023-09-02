@@ -3,10 +3,10 @@ This program calculates the Body Mass Index (BMI), BMI is a measure of body fat 
 
 ### Example
 The following is an example of the program:
-> Enter your height in m: 1.77<br>
-> Enter your weight in kg: 80<br>
-> slightly overweight<br>
-> Your BMI is 25<br>
+Enter your height in m: 1.77
+Enter your weight in kg: 80
+slightly overweight
+Your BMI is 25
 
 Link to the project: 
 ## Calculating Area
