@@ -334,3 +334,27 @@ nawaf<br>
 
 
 <a href ="https://github.com/nawafalhu/Python-Project/blob/main/caesar-cipher.py">Link to the project</a>
+
+## Grading Program 
+
+### Example 
+The following is an example of the program:<br>
+<br>
+{'Harry': 'Exceeds Expectations', 'Ron': 'Acceptable', 'Hermione': 'Outstanding', 'Draco': 'Acceptable', 'Neville': 'Fail'}
+
+<a href ="">Link to the project</a>
+
+## Blind-Auction
+The objective is to write a program that will collect the names and bids of different people. The program should ask for each bidder's name and their bid individually.
+
+### Example 
+The following is an example of the program: <br>
+<br>
+Welcome to the secret auction program.<br>
+What is your name?: nawaf<br>
+What's your bid?: 120<br>
+Are there any other bidders? Type 'yes' or 'no'.<br>
+no<br>
+The winner is nawaf with a bid of $120<br>
+
+<a href ="">Link to the project</a>
