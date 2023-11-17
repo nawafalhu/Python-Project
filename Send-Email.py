@@ -29,4 +29,3 @@ smtp.starttls()
 smtp.login(Sender, Password)
 
 smtp.sendmail(Sender, receve, msg.as_string())
-
