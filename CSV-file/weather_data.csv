@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 day,temp,condition
 Monday,12,Sunny
 Tuesday,14,Rain
@@ -5,4 +6,13 @@ Wednesday,15,Rain
 Thursday,14,Cloudy
 Friday,21,Sunny
 Saturday,22,Sunny
+=======
+day,temp,condition
+Monday,12,Sunny
+Tuesday,14,Rain
+Wednesday,15,Rain
+Thursday,14,Cloudy
+Friday,21,Sunny
+Saturday,22,Sunny
+>>>>>>> 40b695b7b8c1e383f5e04d5a00bb5c0d7e5c5353
 Sunday,24,Sunny

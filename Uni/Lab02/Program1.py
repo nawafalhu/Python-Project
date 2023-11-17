@@ -40,7 +40,7 @@ avg = sum // n
 print(f"The avg of the list is {avg}")
 
 # change the value of index 3 to 45
-# اذا كان مافيه اندكس 3
+
 cost_list[3] = 45
 
 # Remove the fourth cost in the list - display after and before
